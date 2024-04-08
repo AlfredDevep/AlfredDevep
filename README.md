@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> Hi 👋, I'm Cristian Martinez</h1>
-<h3 align="center">A passionate frontend developer from El Salvador</h3>
+<h3 align="center">I am passionate frontend developer from El Salvador</h3>
 
 - 🔭 I’m currently working on **E-commerce**
 
