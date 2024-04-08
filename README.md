@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Javascript**
 
-- 📫 How to reach me **practicaswebdevelopment@gmail.com**
+- 📫 How to reach me 
 
 - 📄 Know about my experiences [I have learned about software development on my own resources however I have stared a bootcamp at Kodigo also I have an English level 80%!]
 - ⚡ Fun fact **I Think Coding is fun to learn**
